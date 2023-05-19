@@ -7,7 +7,7 @@ layout: default
 
 I'm a senior software engineer working primarily in statically typed functional programming languages. I have extensive experience developing stream-processing pipelines and backend web services in Haskell. I have authored many open source libraries and tools for developing blockchain applications in Haskell and PureScript. I have also built and contributed to several large frontend applications in PureScript, including Ethereum applications.
 
-In the last two years I have also worked extensively on numerical analysis pipelines to derive accurate localization data from raw GPS/pseudorange measurements produced by a custom hardware stack at my previous company. This work is not yet open source, but I'm hoping it will be soon.
+My current areas of interest are in at the intersections of hardware acceleration, fpgas, and risc-v SoC design. My current employment is as a scala backend engineer at a webservices company. When I'm not doing either of these things I'm most likely out trail running in the mountains in Oregon.
 
 Prior to my career as a software engineer, I was a PhD student in pure mathematics. My areas of research interest were in Algebraic Geometry and Complex Geometry.
 
