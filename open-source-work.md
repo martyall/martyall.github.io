@@ -6,8 +6,8 @@ layout: default
 
 Most of my open source work has been to facilitate blockchain development in Haskell and PureScript for applications targeting Ethereum or Cosmos. I have also done some general library development in the PureScript language, especially in the area of embedding geospatial visualizations in frontend applications.
 
-## calc
-[calc](https://github.com/martyall/calc) is a language which compiles to plonk circuits and uses a plonk2 backend for generating and verifying ZK proofs. The project is currently written in rust.
+## ℓ-adic
+[ℓ-adic](https://github.com/l-adic) is a project which compiles Haskell to artithmetic constraints compatible with zero knowledge protocols.
 
 ## purescript-web3
 The PureScript Web3 suite is composed of three libraries to facilitate Ethereum development in PureScript:
