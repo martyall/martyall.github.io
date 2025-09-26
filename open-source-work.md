@@ -14,12 +14,12 @@ Most of my open source work has been to facilitate blockchain and zero-knowledge
 
 ## purescript-web3
 The PureScript Web3 suite is composed of three libraries to facilitate Ethereum development in PureScript:
-1. [purescript-web3](https://github.com/f-o-a-m/purescript-web3) - comprehensive bindings to the Ethereum Web3 API.
-2. [purescript-web3-generator](https://github.com/f-o-a-m/purescript-web3-generator) - a code generator that can produce FFI code from a smart contract ABI.
-3. [purescript-eth-core](https://github.com/f-o-a-m/purescript-eth-core) - a low level Ethereum library for dealing with encodings, cryptographic operations, and other basic Ethereum types.
+1. [purescript-web3](https://github.com/martyall/purescript-eth/tree/main/web3) - comprehensive bindings to the Ethereum Web3 API.
+2. [purescript-web3-generator](https://github.com/martyall/purescript-eth/tree/main/web3-generator) - a code generator that can produce FFI code from a smart contract ABI.
+3. [purescript-eth-core](https://github.com/martyall/purescript-eth/tree/main/eth-core) - a low level Ethereum library for dealing with encodings, cryptographic operations, and other basic Ethereum types.
 
 ## Chanterelle
-[Chanterelle](https://github.com/f-o-a-m/chanterelle) is a framework and CLI tool for writing, testing, and managing smart contracts on Ethereum. You can read more about the motivation in this [initial release post](https://medium.com/foam-space/introducing-chanterelle-d284bdfc0e71).
+[Chanterelle](https://github.com/martyall/purescript-eth/tree/main/chanterelle) is a framework and CLI tool for writing, testing, and managing smart contracts on Ethereum. You can read more about the motivation in this [initial release post](https://medium.com/foam-space/introducing-chanterelle-d284bdfc0e71).
 
 ## Kepler
 [Kepler](https://github.com/f-o-a-m/kepler) is a Haskell language implementation of an ABCI server and a framework for developing Cosmos/Tendermint backed applications in Haskell. The [documentation site](https://kepler.dev/) has a complete breakdown of the project as well an extensive example application. The initial development of Kepler was supported by an [ICF](https://interchain.io/) grant.
