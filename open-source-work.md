@@ -4,10 +4,13 @@ layout: default
 
 # Open Source Work
 
-Most of my open source work has been to facilitate blockchain development in Haskell and PureScript for applications targeting Ethereum or Cosmos. I have also done some general library development in the PureScript language, especially in the area of embedding geospatial visualizations in frontend applications.
+Most of my open source work has been to facilitate blockchain and zero-knowledge development in Haskell, Rust, and PureScript. I have also done some general library development in the PureScript language, especially in the area of embedding geospatial visualizations in frontend applications.
 
 ## ℓ-adic
-[ℓ-adic](https://github.com/l-adic) is a project which compiles Haskell to artithmetic constraints compatible with zero knowledge protocols.
+[ℓ-adic](https://github.com/l-adic) is a project which compiles Haskell to artithmetic constraints compatible with zero knowledge proving protocols (e.g. groth16, bulletproofs):
+1. [arithmetic-circuits](https://github.com/l-adic/arithmetic-circuits): A deeply embedded circuit DSL with an R1CS backend and adaptors for circom tooling. (This was a revival and expansion of the original work from adjoint.io).
+2. [bulletproofs](https://github.com/l-adic/bulletproofs) An optimized Rust implementation of the bulletproofs proof system.
+3. [ttc](https://github.com/l-adic/ttc) An implementation of the [Top Trading Cycle](https://en.wikipedia.org/wiki/Top_trading_cycle) as an Ethereum application with a risc0 zk co-processor.
 
 ## purescript-web3
 The PureScript Web3 suite is composed of three libraries to facilitate Ethereum development in PureScript:
